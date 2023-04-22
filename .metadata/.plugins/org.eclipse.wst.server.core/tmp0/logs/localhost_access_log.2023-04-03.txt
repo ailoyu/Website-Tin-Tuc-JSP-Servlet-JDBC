@@ -1,0 +1,13 @@
+127.0.0.1 - - [03/Apr/2023:17:07:58 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:00 +0700] "GET /new-jdbc-12-month-2018/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:02 +0700] "GET /new-jdbc-12-month-2018/trang-chu HTTP/1.1" 200 5671
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:02 +0700] "GET /new-jdbc-12-month-2018/template/web/css/style.css HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:02 +0700] "GET /new-jdbc-12-month-2018/template/web/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:02 +0700] "GET /new-jdbc-12-month-2018/template/web/jquery/jquery.min.js HTTP/1.1" 200 86927
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:02 +0700] "GET /new-jdbc-12-month-2018/template/admin/assets/js/jquery.2.1.1.min.js HTTP/1.1" 200 84245
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:02 +0700] "GET /new-jdbc-12-month-2018/template/web/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 70682
+127.0.0.1 - - [03/Apr/2023:17:08:37 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:38 +0700] "GET /new-jdbc-12-month-2018/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:08:39 +0700] "GET /new-jdbc-12-month-2018/trang-chu HTTP/1.1" 200 5671
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:11:07 +0700] "GET /new-jdbc-12-month-2018/dang-nhap?action=login HTTP/1.1" 200 2467
+0:0:0:0:0:0:0:1 - - [03/Apr/2023:17:11:07 +0700] "GET /new-jdbc-12-month-2018/template/login/style.css HTTP/1.1" 304 -
